@@ -1,30 +1,73 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Франшиза магазина женского белья Bustberry
+featuredImage: 'https://ucarecdn.com/2590b08f-b871-4898-9ce5-c739e6ec92b5/'
+subtitle: Наши партнеры окупают свои вложения в среднем за 6 месяцев.
+accordion:
+  - content: '2'
+    title: '1'
+  - content: '4'
+    title: '3'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+За 4 года работы сети магазинов Bustberry
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+* 85
+  открытых магазинов по всей России
+* 4-10 месяцев окупаемость
+* 38
+  тыс. руб. - минимальная прибыль в месяц у партнера сети (население 4 тыс. человек)
+* 125
+  тыс. руб. - средняя прибыль в месяц у партнеров сети
+* 523
+  тыс. руб. - максимальная прибыль в месяц у партнеров сети
+* 36
+  тыс. клиентов в месяц покупают в нашей сети
+   Интервью
 
-# Features
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
 
-## Get started
+## Что будет если Вы решите открыть магазин?
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+01. Мы с Вами поговорим по телефону
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+02. Пригласим на встречу
+
+03. Встретимся в течении 2 недель
+
+04. Покажем Вам все магазины, и то как они работают
+
+05. Подпишем договор
+
+06. Проведем двухдневное обучение
+
+07. Регистрируем ИП (если его нет)
+
+08. Начнем поиск помещения
+
+09. Мы рассмотрим с Вами порядка 40-50 вариантов и выберем подходящий
+
+10. Подписываем договор с арендодателем
+
+11. Делаем замер помещения
+
+12. Заказываем мебель
+
+13. Начинаем искать персонал
+
+14. Заказываем рекламную продукцию
+
+15. Закупаем товар зарекомендованный в данный момент сезона
+
+16. Собирается мебель
+
+17. Устанавливается видеонаблюдение
+
+18. Устанавливается музыкальное оборудование
+
+19. Развешиваем товар совместно с продавцами
+
+20. Торжественное открытие с шариками и промоутерами
